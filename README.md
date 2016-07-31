@@ -23,4 +23,3 @@ Provides a step by step analysis of job projection data (2015-2014) from [Statis
 * Introduction to jupyter notebooks where I had to combine code snippets and markdown for a more interactive walkthrough of the analysis
 * Iterative code refactoring to DRY code and leverage inbuilt functions and libraries
 * More practice on reading documentation and seeking help with targeted questions
-* 
